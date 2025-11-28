@@ -71,6 +71,10 @@ tools:
     text: '文本'
     data: '数据'
 
+  json-editor:
+    title: JSON编辑器
+    description: 提供JSON的多种编辑功能, 如格式检查、美化等。
+
   password-strength-analyser:
     title: 密码强度分析仪
     description: 使用此密码强度分析器和破解时间估计工具来发现密码的强度。
