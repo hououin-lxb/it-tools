@@ -166,6 +166,7 @@ function extractValidJson(event: MouseEvent) {
 .tool-content {
   flex: 0 1 100%;
   padding: 0 20px;
+  width: 100%;
 }
 
 .main-content {
